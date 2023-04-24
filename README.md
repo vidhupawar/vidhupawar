@@ -1,5 +1,3 @@
-![Banner](https://raw.githubusercontent.com/vidhupawar/vidhupawar/master/assets/banner.jpg)
-
 ## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝚏𝚎𝚕𝚕𝚘𝚠 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/>
 I am Software Engineer, with experience in building both frontend and backend applications.
 Please feel free to clone projects, raise issues, and submit PRs. I am open to helping and taking guidance from others to improve myself, contribute, and explore interesting open-source projects.
