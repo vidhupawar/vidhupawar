@@ -44,12 +44,11 @@ Please feel free to clone projects, raise issues, and submit PRs. I am open to h
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white)
 
-CI/CD: Bamboo
-Monitoring tools: New Relic, Splunk, Kibana
-
 
 ### 𝙾𝚝𝚑𝚎𝚛 Tools 𝙸 𝚞𝚜𝚎𝚍
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
+CI/CD: Bamboo
+Monitoring tools: New Relic, Splunk, Kibana
 
 
 ### 𝚂𝚘𝚖𝚎 𝚗𝚎𝚛𝚍𝚢 𝚜𝚝𝚞𝚏𝚏 𝚝𝚑𝚊𝚝 𝚢𝚘𝚞 𝚖𝚊𝚢 𝚕𝚒𝚔𝚎
